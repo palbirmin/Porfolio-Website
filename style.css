@@ -903,7 +903,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
   }
   
   .social-media-list li:after {
-	content: '';
+
 	position: absolute;
 	top: 0;
 	left: 0;
